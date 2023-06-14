@@ -1,0 +1,271 @@
+{
+  "project_info": {
+    "project_number": "837396134304",
+    "project_id": "dkk-net-studio-easy-apk",
+    "storage_bucket": "dkk-net-studio-easy-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:0565405560d512f55b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.galaxywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:392cbb776b82ff4e5b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.islamicwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:64d46f195832a99c5b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.laguarmada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:91004e023feb30085b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.lagumaherzain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:825f8d14e8e995da5b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.laguonedirection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:9a7089a9b57d7c2a5b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.laguwaliband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:253388455982cb765b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.laguwestlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:ae784cd515b6a9bb5b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.musikdjviralterbaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837396134304:android:d12ae4daaf420c3b5b0cc5",
+        "android_client_info": {
+          "package_name": "com.dkknetstudio.suaraklaksonbasuri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXqZqFlVLJWOLqKL_-YzIiRk-dPNNPQ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837396134304-9qeg348esk8oj9596ff9no3eo81pvhb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
